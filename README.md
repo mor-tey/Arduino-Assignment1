@@ -20,6 +20,3 @@ When the countdown finishes, it prints "=== Countdown Complete ===".
 4. Click Upload, then open Tools > Serial Monitor (9600 baud).
 ## Author
 Akpene Mortey Koku - 2526401901
-
-
-Update README with project description
